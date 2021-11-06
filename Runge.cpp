@@ -8,7 +8,7 @@ int main (){
 	int i,a;
 	float xi,xf,h,k,y,k1,k2,k3,k4;
 	
-	cout<<"Ingrese valor inicial de x : \nx0 = ";
+	cout<<"Ingrese valor inicial de x Hello : \nx0 = ";
 	cin>>xi;
 	cout<<"Ingrese valor final de x : \nxf =";
 	cin>>xf;
